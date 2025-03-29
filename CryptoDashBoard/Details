@@ -1,0 +1,29 @@
+# 📊 Crypto Dashboard - Power BI  
+
+## 📌 Overview  
+This Power BI dashboard provides insights into cryptocurrency market trends, including key metrics such as market capitalization, trading volume, and price fluctuations.  
+
+## 📊 Key Insights  
+- 📈 **Market Trends:** The dashboard tracks the price trends of major cryptocurrencies like Bitcoin, Ethereum, and more.  
+- 📉 **Volatility Analysis:** Identifies high and low volatility periods for better trading decisions.  
+- 🔄 **Trading Volume:** Highlights the most traded cryptocurrencies.  
+- 💹 **Market Capitalization:** Displays the top cryptocurrencies by market cap.  
+
+## 🛠 Features  
+- **Interactive Visuals** for better data exploration  
+- **Real-time Data Integration** (if applicable)  
+- **Filters & Slicers** for customized analysis  
+- **Historical Price Comparison** for market trends  
+
+## 📂 How to Use?  
+1. Download the **CryptoDashBoard.pbix** file.  
+2. Open it in **Power BI Desktop**.  
+3. Explore the different visuals, filters, and insights.  
+
+## 🚀 Future Enhancements  
+- Add **Predictive Analysis** for price forecasting.  
+- Integrate **Live API Data** for real-time updates.  
+- Include **Sentiment Analysis** based on news & social media.  
+
+## 📢 Contributing  
+Feel free to fork this repo and suggest improvements! 😊  
